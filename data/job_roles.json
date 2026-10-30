@@ -1,0 +1,71 @@
+{
+  "Artificial Intelligence": {
+    "roleTitle": "AI / Machine Learning Engineer & Researcher",
+    "categories": {
+      "coreSkills": ["Python", "Algorithms & Data Structures", "Linear Algebra & Statistics", "SQL"],
+      "frameworks": ["PyTorch", "TensorFlow", "Scikit-Learn", "HuggingFace Transformers"],
+      "domainKnowledge": ["Deep Learning", "Computer Vision", "Natural Language Processing (NLP)", "MLOps"],
+      "cloudDevOps": ["Docker", "Kubernetes", "AWS / GCP", "Git & CI/CD"],
+      "softSkills": ["Problem Solving", "Research Paper Writing", "Technical Communication", "Agile Collaboration"]
+    },
+    "weights": {
+      "coreSkills": 0.35,
+      "frameworks": 0.25,
+      "domainKnowledge": 0.20,
+      "cloudDevOps": 0.10,
+      "softSkills": 0.10
+    }
+  },
+  "Data Science": {
+    "roleTitle": "Data Scientist & Analytics Engineer",
+    "categories": {
+      "coreSkills": ["Python", "SQL", "R", "Advanced Statistics"],
+      "frameworks": ["Pandas", "NumPy", "Scikit-Learn", "Tableau / PowerBI"],
+      "domainKnowledge": ["Predictive Modeling", "A/B Testing", "Feature Engineering", "Data Warehousing"],
+      "cloudDevOps": ["Snowflake", "Databricks", "Docker", "Git"],
+      "softSkills": ["Business Acumen", "Data Storytelling", "Critical Thinking", "Stakeholder Management"]
+    },
+    "weights": {
+      "coreSkills": 0.35,
+      "frameworks": 0.25,
+      "domainKnowledge": 0.20,
+      "cloudDevOps": 0.10,
+      "softSkills": 0.10
+    }
+  },
+  "Cloud & DevOps": {
+    "roleTitle": "Cloud Native & DevOps Engineer",
+    "categories": {
+      "coreSkills": ["Linux", "Python", "Bash", "Go"],
+      "frameworks": ["Terraform", "Ansible", "Kubernetes", "Docker"],
+      "domainKnowledge": ["Microservices Architecture", "Site Reliability Engineering (SRE)", "Infrastructure as Code", "Networking & Security"],
+      "cloudDevOps": ["AWS", "Azure", "GCP", "GitHub Actions / GitLab CI"],
+      "softSkills": ["Incident Management", "Root Cause Analysis", "Systematic Debugging", "Cross-team Communication"]
+    },
+    "weights": {
+      "coreSkills": 0.35,
+      "frameworks": 0.25,
+      "domainKnowledge": 0.20,
+      "cloudDevOps": 0.10,
+      "softSkills": 0.10
+    }
+  },
+  "Computer Science": {
+    "roleTitle": "Full Stack & Distributed Systems Engineer",
+    "categories": {
+      "coreSkills": ["Java", "Python", "JavaScript / TypeScript", "Data Structures & Algorithms"],
+      "frameworks": ["React", "Node.js / Spring Boot", "Express", "PostgreSQL / MongoDB"],
+      "domainKnowledge": ["Distributed Systems", "Database Design", "System Design", "REST / GraphQL APIs"],
+      "cloudDevOps": ["Docker", "AWS", "Git", "CI/CD Pipelines"],
+      "softSkills": ["Code Review", "Team Collaboration", "Time Management", "Presentation Skills"]
+    },
+    "weights": {
+      "coreSkills": 0.35,
+      "frameworks": 0.25,
+      "domainKnowledge": 0.20,
+      "cloudDevOps": 0.10,
+      "softSkills": 0.10
+    }
+  }
+}
+

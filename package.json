@@ -1,0 +1,31 @@
+{
+  "name": "ai-skill-gap-analyzer",
+  "version": "1.0.0",
+  "description": "AI-Powered Skill Gap Analyzer and Intelligent Career Acceleration Agent (SkillGap AI)",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "server": "node server/server.js",
+    "client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build",
+    "install:all": "npm install && npm --prefix client install",
+    "test:unit": "node -e \"const { runDeterministicAnalysis } = require('./server/services/deterministicAnalyzer'); const res = runDeterministicAnalysis({ cgpa: 8.2, targetSpecialization: 'Artificial Intelligence', budgetInr: 1500000, preferredCountry: 'Germany', skills: ['Python', 'SQL', 'Machine Learning'] }); console.log('Unit Test Passed! Top match:', res.recommendations[0].university.name, 'Score:', res.recommendations[0].match_score);\""
+  },
+  "keywords": [
+    "ai",
+    "skill-gap-analyzer",
+    "career-acceleration-agent",
+    "langgraph",
+    "react",
+    "express"
+  ],
+  "author": "Arunitha A, Leavin Jackson J, Pravin K P",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "puppeteer-core": "^25.16.0"
+  }
+}

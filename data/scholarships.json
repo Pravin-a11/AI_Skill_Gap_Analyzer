@@ -1,0 +1,43 @@
+[
+  {
+    "id": "daad-germany",
+    "name": "DAAD Development-Related Postgraduate Courses (EPOS)",
+    "country": "Germany",
+    "coverage": "Full Tuition + €934/month living stipend + Health Insurance + Travel Allowance",
+    "minCgpa": 7.5,
+    "deadline": "October 15 (Annual)",
+    "targetField": ["Computer Science", "Artificial Intelligence", "Engineering"],
+    "eligibility": "Minimum 2 years of professional experience or top academic record"
+  },
+  {
+    "id": "erasmus-mundus",
+    "name": "Erasmus Mundus Joint Master Degrees (EMJMD)",
+    "country": "European Union",
+    "coverage": "Full Tuition + €1,400/month living allowance + Travel allowance",
+    "minCgpa": 8.0,
+    "deadline": "January 15 (Annual)",
+    "targetField": ["AI & Data Engineering", "Intelligent Systems", "Cybersecurity"],
+    "eligibility": "Outstanding academic record and strong motivation letter"
+  },
+  {
+    "id": "deutschlandstipendium",
+    "name": "Deutschlandstipendium National Scholarship",
+    "country": "Germany",
+    "coverage": "€300/month direct financial support for 12 months",
+    "minCgpa": 7.8,
+    "deadline": "Rolling / University-specific (July - September)",
+    "targetField": ["All STEM Disciplines"],
+    "eligibility": "High academic achievement and social commitment"
+  },
+  {
+    "id": "inlaks-scholarship",
+    "name": "Inlaks Shivdasani Foundation Scholarships",
+    "country": "USA / Europe / UK",
+    "coverage": "Up to $100,000 USD covering tuition, living expenses, and one-way travel",
+    "minCgpa": 8.2,
+    "deadline": "March 30 (Annual)",
+    "targetField": ["Specialized AI", "Computer Science", "Pure Sciences"],
+    "eligibility": "Indian citizens holding a top degree from recognized Indian university"
+  }
+]
+

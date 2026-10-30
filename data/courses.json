@@ -1,0 +1,33 @@
+[
+  {
+    "id": "ms-ai-rwth",
+    "universityId": "rwth-aachen",
+    "courseName": "M.Sc. Computer Science (Specialization: Artificial Intelligence)",
+    "durationYears": 2,
+    "language": "English",
+    "credits": 120,
+    "prerequisites": ["Algorithms & Data Structures", "Linear Algebra", "Calculus", "Object-Oriented Programming"],
+    "curriculumHighlights": ["Deep Learning", "Probabilistic Graphical Models", "Autonomous Robot Systems", "Natural Language Processing"]
+  },
+  {
+    "id": "ms-informatics-tum",
+    "universityId": "tum-munich",
+    "courseName": "M.Sc. Informatics / Data Engineering and Analytics",
+    "durationYears": 2,
+    "language": "English",
+    "credits": 120,
+    "prerequisites": ["Theoretical Computer Science", "Databases", "Distributed Systems", "Discrete Mathematics"],
+    "curriculumHighlights": ["Distributed Machine Learning", "Big Data Analytics", "Cloud-Native Infrastructure", "Machine Perception"]
+  },
+  {
+    "id": "ms-cs-tuberlin",
+    "universityId": "tu-berlin",
+    "courseName": "M.Sc. Computer Science",
+    "durationYears": 2,
+    "language": "English",
+    "credits": 120,
+    "prerequisites": ["Operating Systems", "Networking", "Software Engineering"],
+    "curriculumHighlights": ["Cloud Computing", "AI Security", "Web Intelligence"]
+  }
+]
+
